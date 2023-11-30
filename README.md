@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @PMakgetho
-- 👀 I’m interested in data engineering
+-  Hi, I’m @PMakgetho
